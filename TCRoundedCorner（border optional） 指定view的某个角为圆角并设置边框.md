@@ -1,7 +1,6 @@
 # TCRoundedCorner
 Scroll down for english version.
 
-This is a category of UIView which provided the ability of add specified corner(s) to a view with a optional border.
 这是UIView的一个分类，用来指定view的某（几）个角位圆角，同时有可选的的边框，你也可以只加边框而不设置圆角。
 
 ![](https://github.com/TravelC/TCRoundedCorner/blob/master/demoOfTCRoundedCorner.gif)
